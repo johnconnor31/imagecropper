@@ -1,0 +1,58 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.input-element {
+  border: 0.5px solid darkkhaki;
+  border-radius: 25px;
+}
+
+table {
+  height: 80%;
+  width: 100%;
+}
+
+.imageSection {
+  height: 90%;
+}
+
+.fileSection {
+  height: 5%;
+}
+
+button {
+  color: white;
+  height: 30px;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.saveBtn {
+  background: rgb(28, 184, 65);
+}
+
+.printBtn {
+  background: rgb(66, 184, 221);
+}
+
+.clearBtn {
+  background: rgb(202, 60, 60);
+  margin-left: 10px;
+}
+
+.input-element {
+  width: 400px;
+}
+
+.clearFile {
+  height: 25px;
+  background: white;
+  color: black;
+}
